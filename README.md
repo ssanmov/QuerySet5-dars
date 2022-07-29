@@ -1,0 +1,1 @@
+# QuerySet5-dars
